@@ -1,0 +1,15 @@
+D:\C#\Fundamentals\ArraysAndLists\ArraysAndLists\bin\Debug\net6.0\ArraysAndLists.exe
+D:\C#\Fundamentals\ArraysAndLists\ArraysAndLists\bin\Debug\net6.0\ArraysAndLists.deps.json
+D:\C#\Fundamentals\ArraysAndLists\ArraysAndLists\bin\Debug\net6.0\ArraysAndLists.runtimeconfig.json
+D:\C#\Fundamentals\ArraysAndLists\ArraysAndLists\bin\Debug\net6.0\ArraysAndLists.dll
+D:\C#\Fundamentals\ArraysAndLists\ArraysAndLists\bin\Debug\net6.0\ArraysAndLists.pdb
+D:\C#\Fundamentals\ArraysAndLists\ArraysAndLists\obj\Debug\net6.0\ArraysAndLists.csproj.AssemblyReference.cache
+D:\C#\Fundamentals\ArraysAndLists\ArraysAndLists\obj\Debug\net6.0\ArraysAndLists.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Fundamentals\ArraysAndLists\ArraysAndLists\obj\Debug\net6.0\ArraysAndLists.AssemblyInfoInputs.cache
+D:\C#\Fundamentals\ArraysAndLists\ArraysAndLists\obj\Debug\net6.0\ArraysAndLists.AssemblyInfo.cs
+D:\C#\Fundamentals\ArraysAndLists\ArraysAndLists\obj\Debug\net6.0\ArraysAndLists.csproj.CoreCompileInputs.cache
+D:\C#\Fundamentals\ArraysAndLists\ArraysAndLists\obj\Debug\net6.0\ArraysAndLists.dll
+D:\C#\Fundamentals\ArraysAndLists\ArraysAndLists\obj\Debug\net6.0\refint\ArraysAndLists.dll
+D:\C#\Fundamentals\ArraysAndLists\ArraysAndLists\obj\Debug\net6.0\ArraysAndLists.pdb
+D:\C#\Fundamentals\ArraysAndLists\ArraysAndLists\obj\Debug\net6.0\ArraysAndLists.genruntimeconfig.cache
+D:\C#\Fundamentals\ArraysAndLists\ArraysAndLists\obj\Debug\net6.0\ref\ArraysAndLists.dll

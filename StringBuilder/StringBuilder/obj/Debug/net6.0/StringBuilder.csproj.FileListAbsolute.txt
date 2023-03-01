@@ -1,0 +1,15 @@
+D:\C#\Fundamentals\StringBuilder\StringBuilder\bin\Debug\net6.0\StringBuilder.exe
+D:\C#\Fundamentals\StringBuilder\StringBuilder\bin\Debug\net6.0\StringBuilder.deps.json
+D:\C#\Fundamentals\StringBuilder\StringBuilder\bin\Debug\net6.0\StringBuilder.runtimeconfig.json
+D:\C#\Fundamentals\StringBuilder\StringBuilder\bin\Debug\net6.0\StringBuilder.dll
+D:\C#\Fundamentals\StringBuilder\StringBuilder\bin\Debug\net6.0\StringBuilder.pdb
+D:\C#\Fundamentals\StringBuilder\StringBuilder\obj\Debug\net6.0\StringBuilder.csproj.AssemblyReference.cache
+D:\C#\Fundamentals\StringBuilder\StringBuilder\obj\Debug\net6.0\StringBuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Fundamentals\StringBuilder\StringBuilder\obj\Debug\net6.0\StringBuilder.AssemblyInfoInputs.cache
+D:\C#\Fundamentals\StringBuilder\StringBuilder\obj\Debug\net6.0\StringBuilder.AssemblyInfo.cs
+D:\C#\Fundamentals\StringBuilder\StringBuilder\obj\Debug\net6.0\StringBuilder.csproj.CoreCompileInputs.cache
+D:\C#\Fundamentals\StringBuilder\StringBuilder\obj\Debug\net6.0\StringBuilder.dll
+D:\C#\Fundamentals\StringBuilder\StringBuilder\obj\Debug\net6.0\refint\StringBuilder.dll
+D:\C#\Fundamentals\StringBuilder\StringBuilder\obj\Debug\net6.0\StringBuilder.pdb
+D:\C#\Fundamentals\StringBuilder\StringBuilder\obj\Debug\net6.0\StringBuilder.genruntimeconfig.cache
+D:\C#\Fundamentals\StringBuilder\StringBuilder\obj\Debug\net6.0\ref\StringBuilder.dll

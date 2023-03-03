@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K5+psgWH2G4gH3Mft13N9Ikll11Xi9txEPtEXiMqgvux2OTagSZYYLGhDnoQecYtfNMJuv+emWC9vjhay6UTPQ==",
+  "dgSpecHash": "FWbZ7890CicEeg7Vq7zWXYJnTYmImYskmxfzUpA4yIQMB8WA4pNuMhz4pXiTSWt9BuFbKiGz1nyDfa9rD4ElZQ==",
   "success": true,
-  "projectFilePath": "D:\\C#\\Fundamentals\\Data\\Data\\Data.csproj",
+  "projectFilePath": "/Users/macbook/Documents/C-Fundamentals/Data/Data/Data.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

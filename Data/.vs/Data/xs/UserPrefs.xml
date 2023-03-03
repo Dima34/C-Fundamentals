@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{33B552AF-E8BD-43DF-B4F8-54F96F0F99D4}|Default">
+  <MonoDevelop.Ide.ItemProperties.Data PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Data/Program.cs">
+    <Files>
+      <File FileName="Data/Program.cs" Line="7" Column="21" />
+      <File FileName="Data/NumberSequence.cs" Line="44" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Data" expanded="True">
+            <Node name="Data" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

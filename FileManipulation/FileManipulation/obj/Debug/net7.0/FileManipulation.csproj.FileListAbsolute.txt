@@ -1,0 +1,15 @@
+/Users/macbook/Documents/C-Fundamentals/FileManipulation/FileManipulation/bin/Debug/net7.0/FileManipulation
+/Users/macbook/Documents/C-Fundamentals/FileManipulation/FileManipulation/bin/Debug/net7.0/FileManipulation.deps.json
+/Users/macbook/Documents/C-Fundamentals/FileManipulation/FileManipulation/bin/Debug/net7.0/FileManipulation.runtimeconfig.json
+/Users/macbook/Documents/C-Fundamentals/FileManipulation/FileManipulation/bin/Debug/net7.0/FileManipulation.dll
+/Users/macbook/Documents/C-Fundamentals/FileManipulation/FileManipulation/bin/Debug/net7.0/FileManipulation.pdb
+/Users/macbook/Documents/C-Fundamentals/FileManipulation/FileManipulation/obj/Debug/net7.0/FileManipulation.csproj.AssemblyReference.cache
+/Users/macbook/Documents/C-Fundamentals/FileManipulation/FileManipulation/obj/Debug/net7.0/FileManipulation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Documents/C-Fundamentals/FileManipulation/FileManipulation/obj/Debug/net7.0/FileManipulation.AssemblyInfoInputs.cache
+/Users/macbook/Documents/C-Fundamentals/FileManipulation/FileManipulation/obj/Debug/net7.0/FileManipulation.AssemblyInfo.cs
+/Users/macbook/Documents/C-Fundamentals/FileManipulation/FileManipulation/obj/Debug/net7.0/FileManipulation.csproj.CoreCompileInputs.cache
+/Users/macbook/Documents/C-Fundamentals/FileManipulation/FileManipulation/obj/Debug/net7.0/FileManipulation.dll
+/Users/macbook/Documents/C-Fundamentals/FileManipulation/FileManipulation/obj/Debug/net7.0/refint/FileManipulation.dll
+/Users/macbook/Documents/C-Fundamentals/FileManipulation/FileManipulation/obj/Debug/net7.0/FileManipulation.pdb
+/Users/macbook/Documents/C-Fundamentals/FileManipulation/FileManipulation/obj/Debug/net7.0/FileManipulation.genruntimeconfig.cache
+/Users/macbook/Documents/C-Fundamentals/FileManipulation/FileManipulation/obj/Debug/net7.0/ref/FileManipulation.dll
